@@ -36,3 +36,39 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+#flexiable{
+    display: flex;
+}
+div h3{
+    color: orange;
+}
+.area1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius:12px ;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 5px solid orangered;
+   
+}
+.area2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius:12px ;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 5px solid blue;
+}
+#flexiable{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+footer p{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
